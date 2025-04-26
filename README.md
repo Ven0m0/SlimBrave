@@ -89,7 +89,7 @@ SlimBrave is a powerful PowerShell script designed for Windows users to streamli
 ### Run the command below in PowerShell:
 
 ```ps1
-iwr "https://raw.githubusercontent.com/ltx0101/SlimBrave/main/SlimBrave.ps1" -OutFile "SlimBrave.ps1"; .\SlimBrave.ps1
+iwr "https://raw.githubusercontent.com/Ven0m0/SlimBrave/main/SlimBrave.ps1" -OutFile "SlimBrave.ps1"; .\SlimBrave.ps1
 ```
 
 ---
